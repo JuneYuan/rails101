@@ -29,8 +29,10 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Some utilities for Rails101
 gem 'bootstrap-sass'
 gem "simple_form"
+gem "will_paginate"
 
 # Quickly implement a login function
 gem "devise"
